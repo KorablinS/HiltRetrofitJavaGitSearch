@@ -1,4 +1,4 @@
-package com.example.hiltretrofitjavagitsearch;
+package ru.synergy.hiltretrofitjavagitsearch;
 
 import org.junit.Test;
 

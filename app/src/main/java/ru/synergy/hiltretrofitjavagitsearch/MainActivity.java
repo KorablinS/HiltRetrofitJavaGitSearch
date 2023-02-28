@@ -1,7 +1,9 @@
-package com.example.hiltretrofitjavagitsearch;
+package ru.synergy.hiltretrofitjavagitsearch;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.hiltretrofitjavagitsearch.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.hiltretrofitjavagitsearch;
+package ru.synergy.hiltretrofitjavagitsearch;
 
 import android.content.Context;
 
